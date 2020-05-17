@@ -1,0 +1,18 @@
+body {
+    background-color: #1C1A2D;
+    color: #fff;
+    font-size: 40px;
+}
+.content {
+    padding-top: 3%;
+    padding-left: 3%;
+    font-family: "Segoe UI", sans-serif;
+}
+h1 {
+    padding-left: 10px;
+    font-family: Impact, sans-serif;
+}
+strong{
+    font-family: Impact, sans-serif;
+    letter-spacing: 1px;
+}
