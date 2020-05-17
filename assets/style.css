@@ -17,6 +17,10 @@ strong{
     letter-spacing: 1px;
 }
 
+.testcontainer {
+    width: 100%;
+}
+
 .bigrolecontainer {
     width: 100%;
     padding-top: 5%;

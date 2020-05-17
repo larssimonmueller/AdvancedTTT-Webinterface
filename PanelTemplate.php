@@ -16,6 +16,7 @@
     </a>
 </nav>
 <div class="content">
+    <h1>Spielinfo</h1>
     <div class="status">
         <div class="row">
             <div class="col-sm">
