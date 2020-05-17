@@ -16,18 +16,51 @@
     </a>
 </nav>
 <div class="content">
-    <div class="testcontainer">
-        <div class="testone">
-            <h3 class="lo"><strong>Testlevel 1:</strong> <div id="onetext"></div></h3>
+    <div class="status">
+        <div class="row">
+            <div class="col-sm">
+                <div class="testcontainer">
+                    <div class="row">
+                        <div class="col-2">
+                            <img src="testsicon/" height="150">
+                        </div>
+                        <div class="col-8">
+                            <div class="testone">
+                                <h3 class="lo"><strong>Testlevel 1:</strong> <div id="onetext">Verbinde...</div></h3>
+                            </div>
+                            <div class="testtwo">
+                                <h3 class="lt"><strong>Testlevel 2:</strong> <div id="twotext">Verbinde...</div></h3>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
         </div>
-        <div class="testtwo">
-            <h3 class="lt"><strong>Testlevel 2:</strong> <div id="twotext"></div></h3>
+        <div class="col-sm"></div>
+        <div class="col-sm"></div>
+        <div class="bigrolecontainer">
+            <div class="row">
+                <div class="col-2">
+                    <img src="roleicon/" height="150">
+                </div>
+                <div class="col-8">
+                    <div class="rollecontainer">
+                        <h3 class="rolle"><strong>Rolle:</strong> <div id="rolletext">Verbinde...</div></h3>
+                    </div>
+                </div>
+            </div>
         </div>
-        <div class="rollecontainer">
-            <h3 class="rolle"><strong>Rolle:</strong> <div id="rolletext"></div></h3>
-        </div>
-        <div class="fallecontainer">
-            <h3 class="falle"><strong>Falle:</strong> <div id="falletext"></div></h3>
+        <div class="bigtrapcontainer">
+            <div class="row">
+                <div class="col-2">
+                    <img src="trapicon/" height="150">
+                </div>
+                <div class="col-8">
+                    <div class="fallecontainer">
+                        <h3 class="falle"><strong>Falle:</strong> <div id="falletext">Verbinde...</div></h3>
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
 </div>

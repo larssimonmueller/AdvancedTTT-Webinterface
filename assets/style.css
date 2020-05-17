@@ -16,3 +16,17 @@ strong{
     font-family: Impact, sans-serif;
     letter-spacing: 1px;
 }
+
+.bigrolecontainer {
+    width: 100%;
+    padding-top: 5%;
+}
+
+.bigtrapcontainer {
+    width: 100%;
+    padding-top: 5%;
+}
+
+.status {
+    padding-top: 5%;
+}
